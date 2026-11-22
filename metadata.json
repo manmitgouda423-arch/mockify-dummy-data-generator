@@ -1,0 +1,6 @@
+{
+  "name": "MockData Studio – Dummy Data Generator",
+  "description": "Developer utility for generating realistic fictional datasets for users, products, companies, financial transactions, and custom schemas with JSON, CSV, and SQL export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
